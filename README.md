@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/karthit161" target="blank"><img src="https://img.shields.io/twitter/follow/karthit161?logo=twitter&style=for-the-badge" alt="karthit161" /></a> </p>
 
-- 🔭 I’m currently working on **My Final Project for Python Course**
+- 🔭 I’m currently working on **Python Projects**
 
-- 🌱 I’m currently learning **Python From Scratch**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **karthikalaichelvan@gmail.com**
 
